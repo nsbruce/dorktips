@@ -1,4 +1,7 @@
-# Dork tips - May 2023
+---
+layout: post
+title: "git, jesth, and mojo"
+---
 
 ## Thoughts on Github, git and Microsoft
 

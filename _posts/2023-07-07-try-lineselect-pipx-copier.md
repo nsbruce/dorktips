@@ -1,4 +1,7 @@
-# Dork tips - June 2023
+---
+layout: post
+title: "try, lineselect, pipx, and copier"
+---
 
 I'm really excited about some of the tools in this issue. Enjoy!
 

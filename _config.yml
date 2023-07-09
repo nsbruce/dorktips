@@ -1,0 +1,22 @@
+# Setup
+title:               Dorktips
+tagline:             'Dork it up'
+description:         'Tips, tricks and tools for software dorks.'
+url:                 ''
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Nicholas Bruce
+  url:               https://github.com/nsbruce
+  email:             nicholas@nicholasbruce.ca
+
+github:
+  repo: https://github.com/nsbruce/dorktips
+
+# Gems
+plugins:
+  - jekyll-paginate
+

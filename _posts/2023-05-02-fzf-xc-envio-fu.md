@@ -1,4 +1,7 @@
-# Dork tips - April 2023
+---
+layout: post
+title: "fzf, xc, envio, and commandlinefu"
+---
 
 ## fzf
 
