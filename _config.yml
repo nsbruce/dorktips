@@ -2,7 +2,7 @@
 title:               Dorktips
 tagline:             'Dork it up'
 description:         'Tips, tricks and tools for software dorks.'
-url:                 'https://nsbruce.github.io/dorktips/'
+url:                 'https://nsbruce.github.io/dorktips'
 baseurl:             ''
 paginate:            5
 permalink:           pretty
