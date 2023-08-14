@@ -6,7 +6,7 @@ title: "gptoptout, fixit2, continue, typograms, and throwing away your code"
 
 ## GPTBot opt-out
 
-OpenAI now offers a method of stopping it's web crawler from using your website as training material. You can see an example of it running for dorktips here: [robots.txt]({{ site.url }}/robots.txt).
+OpenAI now offers a method of stopping it's web crawler from using your website as training material. You can see an example of it running for dorktips here: [robots.txt]({{ site.url }}robots.txt).
 
 Documentation: <https://platform.openai.com/docs/gptbot>
 
