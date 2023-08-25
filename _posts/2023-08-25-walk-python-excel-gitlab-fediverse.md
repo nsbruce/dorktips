@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "walk, python meets excel"
+title: "walk, python meets excel, gitlab meets the fediverse"
 ---
 
 
@@ -22,3 +22,16 @@ Microsoft is bringing Python into Excel. There are always a lot of haters out th
 
 Announcement: <https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-python-in-excel-the-best-of-both-worlds-for-data/ba-p/3905482>
 
+Fireship video: <https://www.youtube.com/watch?v=8ofsE7xiGho>
+
+## Gitlab embraces the Fediverse
+
+Okay I know this is two "company meets open source" stories in a row but I think this is a really cool development. Gitlab is going to start supporting the ActivityPub protocol (on which Mastodon, Bluesky, Lemmy and Pixelfed are based) in a few different ways. If you search the issues at their [core repo](https://gitlab.com/gitlab-org/gitlab/-/issues) you can see a number of relevant issues and discussions. The one I'm specifically linking to below is about leveraging the protocol for _cross-server_ merge requests. To summarize the idea:
+
+1. You have an account on `gitlab.myserver.ca`.
+2. You fork a project hosted on `gitlab.com` _using your account from `gitlab.myserver.ca`_.
+3. You make edits and make a merge request from your fork to the original project.
+
+If you imagine this being implemented on other git hosts like Github, it would allow you to self-host a git account and still contribute to projects hosted on other servers. I'm excited to see where it goes.
+
+Issue: <https://gitlab.com/gitlab-org/gitlab/-/issues/421930>
