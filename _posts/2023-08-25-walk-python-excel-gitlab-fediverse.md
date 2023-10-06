@@ -20,9 +20,9 @@ Repo: <https://github.com/antonmedv/walk>
 
 Microsoft is bringing Python into Excel. There are always a lot of haters out there when it comes to Excel, but I think this will help people dip their toes in the world of software development. At some of my previous jobs I had to use Excel a lot and while I'm really glad I don't have to anymore, I think this would have been a great way to get started programming without angering my corporate overlords.
 
-Announcement: <https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-python-in-excel-the-best-of-both-worlds-for-data/ba-p/3905482>
+Link: <https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-python-in-excel-the-best-of-both-worlds-for-data/ba-p/3905482>
 
-Fireship video: <https://www.youtube.com/watch?v=8ofsE7xiGho>
+Video: <https://www.youtube.com/watch?v=8ofsE7xiGho>
 
 ## Gitlab embraces the Fediverse
 
@@ -34,4 +34,4 @@ Okay I know this is two "company meets open source" stories in a row but I think
 
 If you imagine this being implemented on other git hosts like Github, it would allow you to self-host a git account and still contribute to projects hosted on other servers. I'm excited to see where it goes.
 
-Issue: <https://gitlab.com/gitlab-org/gitlab/-/issues/421930>
+Link: <https://gitlab.com/gitlab-org/gitlab/-/issues/421930>

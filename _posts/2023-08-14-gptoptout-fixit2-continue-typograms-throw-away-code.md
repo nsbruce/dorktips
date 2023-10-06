@@ -50,7 +50,7 @@ and here is the result.
 
 Looks pretty good. It's also available as a node package.
 
-Documentation: <https://google.github.io/typograms>
+Link: <https://google.github.io/typograms>
 
 ## Opinion: throw away the first draft of your code
 

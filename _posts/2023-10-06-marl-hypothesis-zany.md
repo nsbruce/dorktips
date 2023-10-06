@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "marl, hypothesis"
+title: "marl, hypothesis, zany"
 ---
 
 ## Are new users the problem with software?
@@ -42,4 +42,16 @@ E           angle=inf,
 E       )
 ```
 
-Right, `inf` is a float, and one of the default values in the `st.floats()` "test strategy". I needed to add a catch for nans/infs/etc. In some cases this type of testing may be overkill but the principle at play is: "You said your function would take any float. Does it?". I particularly like to use it when the tests I've written are trivial examples I've dreamed up (-pi -> pi, ...). It's preferable in these cases to have hypothesis pressure test your functions.
+Right, `inf` is a float, and one of the default values in the `st.floats()` "test strategy". I needed to add a catch for nans/infs/etc. In some cases this type of testing may be overkill but the principle at play is: "You said your function would take any float. Does it?". I particularly like to use it when the tests I've written are trivial examples I've dreamed up (-pi -> pi, ...). It's preferable in these cases to have hypothesis pressure test your functions. There are a bunch of other test strategies for different data types and you can define more complex ones.
+
+Link: <https://hypothesis.readthedocs.io/en/latest/>
+
+## zany.sh
+
+A easy-to-use favicon server. Instead of generating and serving a favicon.ico file along with your website, you use an html request where the query parameters define the favicon. For example, I switched the favicon of this website to a dork icon! In my header I have:
+
+```html
+<link rel="icon" href="https://zany.sh/favicon.svg?emoji=🤓&background-color=none"/>
+```
+
+Link: <https://zany.sh>
