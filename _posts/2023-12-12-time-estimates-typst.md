@@ -65,7 +65,7 @@ Here we show a figure, \cref{fig:demo} and a simple table, \cref{tab:demo}.
 
 Which results in the following page (which I cropped for convenience).
 
-![latex demo result](2023-12-12-latex-demo.png)
+![latex demo result](/assets/2023-12-12-latex-demo.png)
 
 ### Typst demo
 
@@ -101,7 +101,7 @@ Here we show a figure, @fig:demo and a simple table,
 
 Which results in the following page (again cropped for convenience).
 
-![typst demo](2023-12-12-typst-demo.png)
+![typst demo](/assets/2023-12-12-typst-demo.png)
 
 ### Conclusion
 
