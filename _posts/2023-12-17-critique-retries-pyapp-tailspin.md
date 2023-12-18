@@ -21,12 +21,12 @@ Article: <https://encore.dev/blog/retries>
 
 ## PyApp
 
-This wraps a Python application into a stand-alone binary. At first I was having a hard time differentiating this and pipx (which I wrote about in a prior post) but the major difference here is that the result is executable without any surrounding infrastructure. With pipx you run the application with something like `pipx my_app_name` whereas once PyApp has been wrapped around the application you simply run `./my_app_name`. So it's a different use case. Neato.
+This wraps a Python application into a stand-alone binary. At first I was having a hard time differentiating PyApp from pipx (which I wrote about in a prior post) but the major difference here is that the result is executable without any surrounding infrastructure. With pipx you run the application with something like `pipx my_app_name` whereas once PyApp has been wrapped around the application you simply run `./my_app_name`. So it's a different use case. Neato.
 
 Repo: <https://github.com/ofek/pyapp>
 
 ## tailspin
 
-A log file colorizer (and more I imagine). You install it, then instead of the typical `tail mylog.log` or `less mylog.log` or whatever, you use `tspin mylog.log` and it parses and colors "numbers, dates, IP-addresses, UUIDs, URLs and more". It works with no config but also allows customization.
+A log file colorizer (and more, I imagine). You install it, then instead of the typical `tail mylog.log` or `less mylog.log` or whatever, you use `tspin mylog.log` and it parses and colors "numbers, dates, IP-addresses, UUIDs, URLs and more". It works with no config but also allows customization.
 
 Repo: <https://github.com/bensadeh/tailspin>
