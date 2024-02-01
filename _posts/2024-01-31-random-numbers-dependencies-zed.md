@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "my title"
+title: "random numbers, dependencies, and Zed"
 ---
 
 ## Random number generator in your head
@@ -23,3 +23,13 @@ This website helps create a dependency tree for a given package, and checks for 
 There is also a free API for the data that the website is serving but I haven't used it yet (and probably won't, the website is slick).
 
 Link: <https://www.deps.dev>
+
+## Zed
+
+Everyone has their favourite IDE and I've tried many of them over the years. I've been using VSCode for a few years now and while good it's definitely not a speed demon. Up next on my try-maybe-plate is Zed, authored by the creators of Atom and Electron.js. The Atom and Electron combo melded into VSCode, and the authors have now written Zed to try and speed things up. Zed is based on a [GPU UI framework written in Rust](https://zed.dev/blog/videogame) they wrote for this purpose.
+
+Their other major selling point is having very fast co-coding baked in. I look forward to trying it but will have to wait for sometone else to install it first!
+
+Lastly, it was recently open sourced. 
+
+Link: <https://zed.dev>
