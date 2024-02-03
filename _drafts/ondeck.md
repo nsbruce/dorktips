@@ -8,3 +8,9 @@ title: "my title"
 Doesn't the title say it all? Lots of good lessons in here, you just have to deal with clicking on the link and wondering what that means about your self perception.
 
 Article: <https://adaobi.substack.com/p/how-to-do-things-if-youre-not-that>
+
+## Adopting the becquerel for network requests
+
+This author says that the most suitable SI unit for network request rates is the becquerel (Bq), a unit of radioactive decay. I can't say I'm passionate to take up this mantle but the argument that we should have a _general_ SI unit for the rate of non-periodic events is interesting.
+
+Article: <https://two-wrongs.com/si-units-for-request-rate>
