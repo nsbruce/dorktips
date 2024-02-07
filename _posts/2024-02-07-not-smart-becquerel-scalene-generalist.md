@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "my title"
+title: "what if you're not smart, the becquerel, Scalene, and generalists"
 ---
 
 ## How to do things if you're not that smart and don't have any talent 
