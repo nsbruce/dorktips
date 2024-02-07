@@ -17,6 +17,14 @@ Article: <https://two-wrongs.com/si-units-for-request-rate>
 
 ## Scalene
 
-A CPU/GPU/memory profiler for Python code, with an optional (opt-in) OpenAI powered "AI-optimization suggestions" feature. The reviews seem really positive, and the README includes some benchmarks comparing it against other profilers. I haven't used it yet but I'll give it a whirl next time I need to find a weak spot in my work!
+A CPU/GPU/memory profiler for Python code, with an optional (opt-in) OpenAI powered "AI-optimization suggestions" feature. The reviews seem really positive, and the README includes some benchmarks comparing it against other profilers. I haven't used it yet but I'll give it a whirl next time I need a profiler!
 
 Repo: <https://github.com/plasma-umass/scalene>
+
+## Generalist vs specialist software developers
+
+This author describes their experience needing to market themselves as a specialist to pick up contract software work, while actually being a generalist. Further, they think that being a generalist is what the projects often actually need, and the desire for a specialist is off-base.
+
+> ...in theory all companies like adaptable people. In practice I find most job descriptions prefer specialists ([source](https://news.ycombinator.com/item?id=32921907))
+
+Article: <https://ochagavia.nl/blog/the-undercover-generalist/>
