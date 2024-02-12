@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "my title"
+title: "Scriptisto, CLI Guidelines, and NTP is outdated"
 ---
 
-## Scriptisto 
+## Scriptisto
 
 With this tool installed, you make scripts in compiled languages (C, Rust, whatever you want) executable by using the scriptisto shebang, `#!/usr/bin/env scriptisto`. When loaded it looks through comments near the top of the file (in the language the script is written in) to define build steps. Once built, if the script hasn't changed, that means the binary can be directly executed, speeding things up. There is a neat demo in the readme where they write a simple C file, add the necessary shebang and comments, then `chmod +x script.c && ./script.c`, which of course looks wacky.
 
@@ -11,7 +11,7 @@ Repo: <https://github.com/igor-petruk/scriptisto>
 
 ## CLI Guidelines
 
-A highly opinionated set of guidelines for writing CLI programs. The introduction is worth a read at a minimum. Plus it's a beautiful website (which is kind of a must if you're about to tell people how to design a UI).
+A set of highly opinionated but well informed and thought out guidelines for writing CLI programs. The introduction is worth a read at a minimum. Plus it's a beautiful website (which is kind of a must if you're about to tell people how to design a UI).
 
 Link: <https://clig.dev>
 
