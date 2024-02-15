@@ -11,3 +11,10 @@ One of the first pieces of advice (related to software development) I read onlin
 2. Amsterdam was once offset from UTC by 19 minutes and 32.13 seconds.
 
 Article: <https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/>
+
+## An argument for "Slow computing"
+
+Similar to "slow fashion" and "slow food", this author argues that "slow computing" has a place in our world. Specifically where security and safety are concerned. The argument is framed around adding friction to our digital systems which is antithesis to the trend since forever(?) of making our digital experiences as frictionless and fast as possible.
+
+Article: <https://www.theregister.com/2024/02/14/friction_is_good/>
+
