@@ -27,7 +27,7 @@ Article: <https://daveon.design/introducing-fontimize-subset-fonts-to-exactly-an
 
 ## OKLCH
 
-News to me, but there's another color specification system (think RGB, Hex, HSL, etc.) called OKLCH.
+News to me, but there's a new color specification system (think RGB, Hex, HSL, etc.) called OKLCH.
 
 - L: lightness
 - C: chroma
