@@ -19,7 +19,7 @@ Repo: <https://github.com/Eventual-Inc/Daft>
 
 This project was created in response to the very-popular-right-now htmx project. The idea with htmz is to "load HTML onto any _element_ in the page on request". So you end up writing vanilla html, but can load it into the page on demand.
 
-As a slight aside, I see more and more projects and NDC talks on "build for the web without Javascript", or sometimes "build for the web without Javascript frameworks". As someone who has depended on frameworks for a few projects only to have them sorta-fold (I'm talking about, GatsbyJS) and then had to rewrite the whole thing, I'm really interested in this trend. Obviously frameworks are great for a lot of things but if maintenance time has to remain approximately 0, the appeal of a framework-less site becomes very strong for me. 
+As a slight aside, I see more and more projects and NDC talks on "build for the web without Javascript", or sometimes "build for the web without Javascript frameworks". As someone who has depended on frameworks for a few projects only to have them sorta-fold (I'm talking about, GatsbyJS) and then had to rewrite the whole thing, I'm really interested in this trend. Obviously frameworks are great for a lot of things but if maintenance time has to remain approximately 0, the appeal of a framework-less site becomes very strong for me.
 
 Link: <https://leanrada.com/htmz/>
 
