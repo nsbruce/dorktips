@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "my title"
+title: "jnv, difftastic, Radicle and ludic"
 ---
 
 ## jnv
@@ -26,3 +26,15 @@ I particularly like the way line numbers are shown both before and after the cha
 The actual CLI command is `difft`, not `difftastic` (luckily).
 
 Link: <https://difftastic.wilfred.me.uk/>
+
+## Radicle
+
+Decentralized Git! Radicle calls itself a "peer-to-peer collaboration stack build on Git". That means it includes the concepts of issues and pull requests overlaying the code storage which uses Git. Instead of pushing code to a central Github/Gitlab server, you push it to a network of nodes. If your Gitlab/Github server goes down you're hooped while with Radicle some number of nodes can go down and you won't be affected. They have a great FAQ page if you're interested in the mechanics of how they pull this off. I'm a huge fan of decentralization so I hope this takes off!
+
+Link: <https://radicle.xyz>
+
+## ludic
+
+Are you tired of seeing React developers brag about component-based web development and having loads of fun and you can't participate because all you know is Python? Fear not! There is now a Python framework for component-based web development. Joking aside, for simple sites this may be a reasonable approach. It seems to be bred from the cult of Javascript-haters, but they are closely following the reactive architecture which has become so popular in the Javascript web/native frameworks.
+
+Repo: <https://github.com/paveldedik/ludic>
