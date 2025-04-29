@@ -15,11 +15,11 @@ I've always had a hard time parsing the output of `diff` and `git diff`. To be f
 
 Lets do a comparison. First here's the output of vanilla git diff for a [small pull request](https://github.com/TorchDSP/torchsig/pull/231) I made to a public repo recently.
 
-![git diff](/assets/next-git-diff.png)
+![git diff](/assets/2024-04-05-git-diff.png)
 
 While here is the output from difftastic (with inline mode enabled).
 
-![difftastic](/assets/next-git-difft.png)
+![difftastic](/assets/2024-04-05-git-difft.png)
 
 I particularly like the way line numbers are shown both before and after the change. The bigger ticket item is that "gone are the days" of hunting for which character changed in a line. If a single variable changes, it's much more clearly highlighted in the diff.
 
