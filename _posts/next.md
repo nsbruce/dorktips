@@ -14,3 +14,9 @@ Link: <https://www.joshwcomeau.com/svg/friendly-introduction-to-svg>
 Following in the footsteps of the popular OpenAPI, this effort to provide a standard for interfacing with CLI applications is interesting. It's still very much in an "alpha" stage of development but the idea is appealing. As somebody who spends a lot of time working with CLI tools, it's easy to imagine the utility of having standard interfaces for making things like automation easier.
 
 Link: <https://opencli.org/>
+
+## Software can be finished
+
+I have been party to many discussions (especially with management and external stakeholders) about how software is never really "finished" and as an owner of said software one must consider ongoing maintenance. Often that maintenance is just dependency updates, but regularly having eyes on deployed code keeps it from stagnating. This article is not directly arguing with this, but points out that _some_ software can be finished and we should sometimes strive for that. I understood this as a "limit" (in the sense of calculus). We may never reach finished software but we can and maybe should try to approach it.
+
+Link: <https://rosswintle.uk/2025/10/software-can-be-finished>
