@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "SVGs, OpenCLI, finished software, and reframing technical debt"
 ---
 
 ## SVG tutorial
@@ -20,3 +20,9 @@ Link: <https://opencli.org/>
 I have been party to many discussions (especially with management and external stakeholders) about how software is never really "finished" and as an owner of said software one must consider ongoing maintenance. Often that maintenance is just dependency updates, but regularly having eyes on deployed code keeps it from stagnating. This article is not directly arguing with this, but points out that _some_ software can be finished and we should sometimes strive for that. I understood this as a "limit" (in the sense of calculus). We may never reach finished software but we can and maybe should try to approach it.
 
 Link: <https://rosswintle.uk/2025/10/software-can-be-finished>
+
+## Can we frame technical debt positively?
+
+I really loved this short article, which frames technical debt as a knowledge gain. Basically, you either learn something or a new technology is released and in both cases your existing code could now be improved. In these cases, the "technical debt" is actually just a gain in knowledge, and a failure it do the improvement work is now an opportunity cost.
+
+Link: <https://lukeplant.me.uk/blog/posts/knowledge-creates-technical-debt>
